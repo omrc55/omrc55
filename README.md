@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+> I am a .Net Full-Stack developer. I promote all my work on this platform, create new projects and then edit this file.
 
 <!--
 **omrc55/omrc55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
